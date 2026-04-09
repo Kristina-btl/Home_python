@@ -1,6 +1,0 @@
-class Smartphone:
-    number = '+7 911 111 11 11'
-    def __init__(self, brand, model, number):
-        self.brand = brand
-        self.model = model
-        self.number = number
